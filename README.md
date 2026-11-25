@@ -700,6 +700,7 @@ A curated list of awesome Agent Skills frameworks, libraries and software.
 ### Image and Video
 
 * [remotion-dev/skills](https://github.com/remotion-dev/skills) - Agent Skills
+* [brajendrak00068/agentic-ai-video-production](https://github.com/brajendrak00068/agentic-ai-video-production) - Open-source AI video editing skills (12 modular `SKILL.md` skills) and 37-tool MCP server (`levea-mcp-server`) for viral clips, 280+ animated caption templates, 9:16 active-speaker reframe, silence removal, multi-cam podcast sync, B-roll, motion graphics, chroma key, and cloud MP4 export.
 * [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) - A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
 * [eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills) - AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.
 * [wuyoscar/GPT-Image2-Skill](https://github.com/wuyoscar/GPT-Image2-Skill) - GPT Image 2/2.5/2.6 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing
